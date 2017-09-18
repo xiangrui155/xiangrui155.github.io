@@ -8,5 +8,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: grxiang.ga/sitemap.xml
-Sitemap: grxiang.ga/baidusitemap.xml
+# Sitemap: grxiang.ga/sitemap.xml
+# Sitemap: grxiang.ga/baidusitemap.xml
